@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="741" height="80" viewBox="0 0 741 80">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 136.515px;
+        text-anchor: middle;
+        fill: #fff;
+        font-family: DBHelvethaicaX-Bd, "DB Helvethaica X";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: DBHelvethaicaX-Med, "DB Helvethaica X";
+        font-size: 119.348px;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="Aunz_Natthawat" data-name="Aunz Natthawat" class="cls-1" transform="translate(371 78.481) scale(1.173)"><tspan x="0">Aunz <tspan class="cls-2">Natthawat</tspan></tspan></text>
+</svg>
