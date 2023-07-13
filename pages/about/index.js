@@ -76,14 +76,10 @@ const aboutData = [
 
 import Avatar1 from "../../components/Avatar1";
 import Circles from "../../components/Circles";
-
-import { TypeAnimation } from "react-type-animation";
-
 import { motion } from "framer-motion";
 import { fadeIn } from "../../variants";
 import { icons } from "react-icons";
 import { BsArrowRight } from "react-icons/bs";
-
 const About = () => {
   const [index, setIndex] = useState(0);
   return (
